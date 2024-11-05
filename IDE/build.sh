@@ -9,7 +9,7 @@ docker buildx create --name mybuilder --use
 
 #login
 docker login --username jbele0
-#pw : 1016@goodee
+
 
 
 # Create the builder
